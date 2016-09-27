@@ -4,7 +4,7 @@ title: Conheça Os Seus Vizinhos
 category: tips
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os melhores sistemas de segurança de casa são vizinhos que se protegem uns aos outros. Faça questão de conhecer os seus vizinhos para que possa pedir-lhes para manter um olho nas coisas enquanto estiver fora.
 

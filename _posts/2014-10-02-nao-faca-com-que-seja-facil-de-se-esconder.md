@@ -4,7 +4,7 @@ title: Não Faça Com Que Seja Fácil De Se Esconder
 category: tips
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 É mais provável que um assaltante tente entrar numa casa onde há menos probabilidades de ser visto. Tirar o esconderijo a um ladrão é um longo caminho no sentido de proteger a sua casa.
 

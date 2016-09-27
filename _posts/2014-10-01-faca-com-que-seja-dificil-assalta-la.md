@@ -4,7 +4,7 @@ title: Faça Com Que Seja Difícil Assaltá-la
 category: tips
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A segunda coisa que os assaltantes andam à procura é o fácil acesso. O que for mais difícil para um ladrão entrar, menos provável será que regresse para uma casa assaltada.
 

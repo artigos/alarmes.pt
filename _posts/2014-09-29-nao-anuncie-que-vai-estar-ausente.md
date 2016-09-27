@@ -4,7 +4,7 @@ title: Não Anuncie Que Vai Estar Ausente
 category: tips
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A primeira coisa que um ladrão procura ao escolher uma casa para assaltar é ela estar vazia. Se fizer com que a sua casa pareça ocupada quando estiver fora, a maioria dos ladrões passam simplesmente por ela. Aqui estão algumas maneiras de fazer isso.
 

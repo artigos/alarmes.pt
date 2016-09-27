@@ -4,7 +4,7 @@ title: Instalar Um Sistema De Alarme De Segurança De Casa
 category: tips
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os alarmes de segurança de casas não são uma garantia de que os assaltantes não vão entrar na sua casa. Mas tornam-no mais difícil, aumentando o risco dum ladrão ser visto e capturado. Se é óbvio que a sua casa está com um alarme, o ladrão pode procurar por um alvo mais fácil.
 
